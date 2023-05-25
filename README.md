@@ -1,5 +1,6 @@
 # 💫 About Me:
-Currently, I am employed as a Backend Engineer at WotNot.io, where my primary focus is on a healthcare project. My responsibilities include investigating and implementing technologies such as NestJS, GraphQL, MSSQL, and Docker. Additionally, I am accountable for the integration and management of Azure Healthcare and storage services within the project.
+In my previous role, I was employed full-time as a Backend Software Engineer, and I am actively pursuing opportunities to expand my skill set by delving into Machine Learning and DevOps in my personal time. 
+I continue to develop a strong working knowledge of tech stacks, specifically in JavaScript and Python, and I am becoming increasingly familiar with several frameworks, such as Flask, Express, NestJS, and NodeJS. As a lifelong learner, I constantly added new skills to my repertoire, and I was always eager to connect with other software engineers around the world. Therefore, please feel free to reach out and connect!
 
 
 ## 🌐 Socials:
