@@ -1,6 +1,5 @@
 # 💫 About Me:
-In my previous role, I was employed full-time as a Backend Software Engineer, and I am actively pursuing opportunities to expand my skill set by delving into Machine Learning and DevOps in my personal time. 
-I continue to develop a strong working knowledge of tech stacks, specifically in JavaScript and Python, and I am becoming increasingly familiar with several frameworks, such as Flask, Express, NestJS, and NodeJS. As a lifelong learner, I constantly added new skills to my repertoire, and I was always eager to connect with other software engineers around the world. Therefore, please feel free to reach out and connect!
+Previously, a full-time Backend Software Engineer at Wotnot.io. Now actively pursuing skills in Distributed Backend Engineering, and relatively in ML. Experienced in JS, TS, and, Python, and frameworks like Flask, Express, NestJS, and NodeJS. A lifelong learner connecting with software engineers worldwide. Feel free to connect with me!
 
 
 ## 🌐 Socials:
