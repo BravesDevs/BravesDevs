@@ -1,27 +1,33 @@
-# 💫 About Me:
-Previously, a full-time Backend Software Engineer at Wotnot.io. Now actively pursuing skills in Distributed Backend Engineering, DevOps, and relatively in ML. Experienced in JS, TS, and, Python, and frameworks like Flask, Express, NestJS, and NodeJS. A lifelong learner connecting with software engineers worldwide. Feel free to connect with me!
+## About Me:
+Former Backend Software Engineer at Wotnot.io. Passionate about Distributed Backend Engineering, DevOps, and exploring ML. Skilled in JS, TS, Python, Express, NestJS, NodeJS. Lifelong learner connecting with global engineers. Let's connect!
 
 
-## 🌐 Socials:
+## Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bravesdevs) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://devang.carrd.co/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/BravesDevs) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/devang__parekh)
 
-# 💻 Tech Stack: 
+## Languages: 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23007ACC.svg?style=for-the-badge&logo=javascript&logoColor=yellow)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+## Tech Stack: 
+![React](https://img.shields.io/badge/react-%23000000.svg?style=for-the-badge&logo=react&logoColor=white) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) 
+![NestJS](https://img.shields.io/static/v1?style=for-the-badge&message=NestJS&color=E0234E&logo=NestJS&logoColor=FFFFFF&label=)
+![Express](https://img.shields.io/static/v1?style=for-the-badge&message=Express&color=000000&logo=Express&logoColor=FFFFFF&label=)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%230077B5.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&color=000000&logo=redis&logoColor=white) 
+![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
+![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=#FF7139) 
+
+## Coding:
+[![LeetCode](https://img.shields.io/static/v1?style=for-the-badge&message=LeetCode&color=222222&logo=LeetCode&logoColor=FFA116&label=)](https://leetcode.com/devangmp)
+![Advent Of Code](https://img.shields.io/static/v1?style=for-the-badge&message=Advent+Of+Code&color=222222&logo=Advent+Of+Code&logoColor=FFFF66&label=)
  
 <!-- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) -->
 <!-- ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) -->
@@ -29,7 +35,7 @@ Previously, a full-time Backend Software Engineer at Wotnot.io. Now actively pur
 <!-- ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) -->
 <!-- ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) -->
  
-# 📊 GitHub Stats:
+## GH Stats:
 ![](https://github-readme-stats.vercel.app/api?username=BravesDevs&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BravesDevs&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BravesDevs&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -37,7 +43,7 @@ Previously, a full-time Backend Software Engineer at Wotnot.io. Now actively pur
 <!-- ## 🏆 GitHub Trophies -->
 <!-- ![](https://github-profile-trophy.vercel.app/?username=BravesDevs&theme=radical&no-frame=false&no-bg=false&margin-w=4) -->
 
-### ✍️ Random Dev Quote
+## Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
