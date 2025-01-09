@@ -1,6 +1,5 @@
 ## About Me:
-Former Backend Software Engineer at Wotnot.io. Passionate about Distributed Backend Engineering, DevOps, and exploring ML. Skilled in JS, TS, Python, Express, NestJS, NodeJS. Lifelong learner connecting with global engineers. Let's connect!
-
+Software Engineer | Enthusiast of LLMs, RAGs, Distributed Backend Engineering, DevOps, and Machine Learning. Proficient in Python, JavaScript, TypeScript, Python, Express, NestJS, and Node.js. A lifelong learner passionate about collaborating with engineers worldwide. Let’s connect!
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bravesdevs) 
