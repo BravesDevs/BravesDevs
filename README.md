@@ -5,11 +5,11 @@
   .github/workflows/profile-cards.yml (push to main, daily, or manual run).
 -->
 
-<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Devang%20Parekh&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=AI%20Automation%20Engineer%20at%20Reklaim%20%C2%B7%20Toronto&descAlignY=55&descSize=18"/>
+<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Devang%20Parekh&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=AI%20Automation%20Engineer%20%C2%B7%20Toronto&descAlignY=55&descSize=18"/>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=720&height=40&lines=AI+Automation+Engineer+at+Reklaim;Agentic+systems%2C+RAG%2C+and+production+APIs;TypeScript+%C2%B7+Python+%C2%B7+Java+%C2%B7+SQL;Toronto+%C2%B7+open+to+collaboration" alt="AI Automation Engineer at Reklaim. Agentic systems, RAG, and production APIs. TypeScript, Python, Java, and SQL. Toronto." />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=720&height=40&lines=AI+Automation+Engineer+%C2%B7+Toronto;Previously+at+Reklaim+%C2%B7+ended+Nov+2026;Agentic+systems%2C+RAG%2C+and+production+APIs;TypeScript+%C2%B7+Python+%C2%B7+Java+%C2%B7+SQL" alt="AI Automation Engineer in Toronto. Previously at Reklaim, ended November 2026. Agentic systems, RAG, and production APIs. TypeScript, Python, Java, and SQL." />
   </a>
 </p>
 
@@ -25,27 +25,27 @@
 
 ## About
 
-I build agentic systems and the backends they run on. The through-line is the same from Reklaim back through Playgrnd, FIYGE, and Maruti Techlabs: take a manual or slow workflow, put a reliable service under it, and measure the result.
+I build agentic systems and the backends they run on. Most recently that was at Reklaim, through November 2026, and before that at Playgrnd, FIYGE, and Maruti Techlabs. The work is the same shape each time: take a manual or slow workflow, put a reliable service under it, and measure the result.
 
 ```ts
 const devang = {
   role: "AI Automation Engineer",
-  company: "Reklaim",
   location: "Toronto, Ontario, Canada",
+  lastRole: "Reklaim · Jun 2026 – Nov 2026",
   focus: ["Agentic systems", "RAG and retrieval", "Production APIs"],
   stack: ["TypeScript", "Python", "Java", "PostgreSQL", "AWS"],
-  now: "Agent workflows, observability, and a shared UI for agents",
+  now: "Open to the next role",
 };
 ```
 
-- Shipping agent workflows at **Reklaim**, with Langfuse on the telemetry path and a shared component library for the agent UI.
+- Shipped agent workflows at **Reklaim** through November 2026, with Langfuse on the telemetry path and a shared component library for the agent UI.
 - Public work is led by **[Agentable.io](https://github.com/BravesDevs/Agentable.io)**, a visual builder that turns a graph into a live REST endpoint.
 - Day to day that is TypeScript and Next.js, Python and FastAPI, Java and Spring Boot, Postgres, and AWS.
 
 ## Experience
 
 ### Reklaim Inc. · AI Automation Engineer
-Toronto, Ontario · Jun 2026 – Present
+Toronto, Ontario · Jun 2026 – Nov 2026
 
 **−35%** monthly user cost (CA$4,800 → CA$3,100) · **62** shared UI components · human tone in agent replies
 
@@ -204,7 +204,7 @@ Cards are generated from this account and refreshed on a schedule. Followers and
 </p>
 
 <p align="center">
-  <strong>Open to work on agentic systems, retrieval pipelines, and backend platforms.</strong>
+  <strong>Open to roles in agentic systems, retrieval pipelines, and backend platforms.</strong>
 </p>
 
 <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
