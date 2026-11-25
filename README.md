@@ -1,215 +1,113 @@
-<!--
-  Profile README for https://github.com/BravesDevs
-  Impact figures are the ones on Devang Parekh's resume.
-  Stat cards and the contribution snake in ./profile are refreshed by
-  .github/workflows/profile-cards.yml (push to main, daily, or manual run).
--->
+# Devang Parekh
 
-<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Devang%20Parekh&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=AI%20Automation%20Engineer%20%C2%B7%20Toronto&descAlignY=55&descSize=18"/>
+AI Automation Engineer · Toronto
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=720&height=40&lines=AI+Automation+Engineer+%C2%B7+Toronto;Previously+at+Reklaim+%C2%B7+ended+Nov+2026;Agentic+systems%2C+RAG%2C+and+production+APIs;TypeScript+%C2%B7+Python+%C2%B7+Java+%C2%B7+SQL" alt="AI Automation Engineer in Toronto. Previously at Reklaim, ended November 2026. Agentic systems, RAG, and production APIs. TypeScript, Python, Java, and SQL." />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BravesDevs&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-  <a href="https://github.com/BravesDevs?tab=followers">
-    <img src="https://img.shields.io/github/followers/BravesDevs?label=Followers&style=for-the-badge&color=236ad3&labelColor=0d1117&logo=github" alt="GitHub followers" />
-  </a>
-  <a href="https://github.com/BravesDevs?tab=repositories">
-    <img src="https://img.shields.io/github/stars/BravesDevs?affiliations=OWNER&label=Stars&style=for-the-badge&color=e3b341&labelColor=0d1117&logo=github" alt="Stars on repositories I own" />
-  </a>
-</p>
-
-## About
-
-I build agentic systems and the backends they run on. Most recently that was at Reklaim, through November 2026, and before that at Playgrnd, FIYGE, and Maruti Techlabs. The work is the same shape each time: take a manual or slow workflow, put a reliable service under it, and measure the result.
-
-```ts
-const devang = {
-  role: "AI Automation Engineer",
-  location: "Toronto, Ontario, Canada",
-  lastRole: "Reklaim · Jun 2026 – Nov 2026",
-  focus: ["Agentic systems", "RAG and retrieval", "Production APIs"],
-  stack: ["TypeScript", "Python", "Java", "PostgreSQL", "AWS"],
-  now: "Open to the next role",
-};
-```
-
-- Shipped agent workflows at **Reklaim** through November 2026, with Langfuse on the telemetry path and a shared component library for the agent UI.
-- Public work is led by **[Agentable.io](https://github.com/BravesDevs/Agentable.io)**, a visual builder that turns a graph into a live REST endpoint.
-- Day to day that is TypeScript and Next.js, Python and FastAPI, Java and Spring Boot, Postgres, and AWS.
+I build agentic systems and the services under them. Reklaim ran through November 2026. Open to the next role.
 
 ## Experience
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3>Reklaim Inc.</h3>
-AI Automation Engineer<br>
-Toronto · Jun 2026 – Nov 2026
-<br><br>
-<b>−35%</b> user cost · CA$4,800 → CA$3,100<br>
-<b>62</b> shared UI components<br>
-Slack MCP · human-tone replies
-</td>
-<td width="50%" valign="top">
-<h3>Playgrnd</h3>
-Full Stack AI Engineer<br>
-Toronto · Nov 2025 – May 2026
-<br><br>
-<b>2</b> agents · <b>98%</b> of manual work automated<br>
-<b>+35%</b> counterparty profit<br>
-<b>6</b> services · Prisma + Postgres
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>FIYGE Research Inc.</h3>
-Software Engineer<br>
-Toronto · Dec 2024 – Oct 2025
-<br><br>
-<b>500+</b> tables · <b>+60%</b> retrieval<br>
-<b>300+</b> APIs · forms <b>−70%</b><br>
-<b>78s → 22s</b> · DB load <b>−30%</b>
-</td>
-<td width="50%" valign="top">
-<h3>Maruti Techlabs</h3>
-Software Engineer L2<br>
-Bengaluru · Aug 2021 – Apr 2023
-<br><br>
-<b>3</b> products · <b>US$800k+</b><br>
-Downtime <b>−28%</b><br>
-<b>25+</b> mailbox capabilities
-</td>
-</tr>
-</table>
-
-## Selected work
-
-These are the public repositories with a real product behind them.
-
-<table>
+<table width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/BravesDevs/Agentable.io">Agentable.io</a></h3>
-      Visual AI agent builder. A drag-and-drop canvas runs Claude and GPT-4o with token streaming over SSE, accepts text, files, and images, and exposes every flow as a REST endpoint.
-      <br><br>
-      <strong>Stack:</strong> Next.js 16, React Flow, Vercel AI SDK, Mastra, Neon Postgres, Drizzle, MCP, Langfuse
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/BravesDevs/Finlysis">Finlysis</a></h3>
-      Personal finance API. Plaid Link connects bank accounts, CSV import runs as a tracked batch, and the dashboard serves cash flow, burn rate, and merchant concentration.
-      <br><br>
-      <strong>Stack:</strong> NestJS, Prisma, MySQL, JWT, Plaid, Swagger
+    <td colspan="2">
+      <img src="profile/wide.png" width="1600" height="1" alt="">
+      <br>
+      <strong>Reklaim Inc.</strong> · AI Automation Engineer · Toronto · Jun 2026 – Nov 2026
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/BravesDevs/ConHacks2026">Infralens</a></h3>
-      Built at ConHacks 2026. Watches Terraform changes, reads usage metrics, and opens a pull request with a right-sized configuration.
-      <br><br>
-      <strong>Stack:</strong> FastAPI, React, Postgres, Terraform, GitHub webhooks
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/BravesDevs/Gujarati-Accent-Detection">Gujarati dialect detection</a></h3>
-      Five-way classifier for Ahmedabadi, Charotari, Surati, Mahesani, and Kathiyavadi. Audio is transcribed first. The Keras model classifies the Gujarati transcript, behind a Django research UI.
-      <br><br>
-      <strong>Stack:</strong> Python, Django 5, Keras, SpeechRecognition
-    </td>
+    <td width="36%">User cost</td>
+    <td><strong>−35%</strong> · CA$4,800 → CA$3,100</td>
+  </tr>
+  <tr>
+    <td>UI components</td>
+    <td><strong>62</strong> shared</td>
+  </tr>
+  <tr>
+    <td>Robotic replies removed</td>
+    <td><strong>100%</strong> · Slack MCP</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Playgrnd</strong> · Full Stack AI Engineer · Toronto · Nov 2025 – May 2026</td>
+  </tr>
+  <tr>
+    <td>Agents</td>
+    <td><strong>2</strong></td>
+  </tr>
+  <tr>
+    <td>Manual work automated</td>
+    <td><strong>98%</strong></td>
+  </tr>
+  <tr>
+    <td>Counterparty profit</td>
+    <td><strong>+35%</strong></td>
+  </tr>
+  <tr>
+    <td>Services</td>
+    <td><strong>6</strong> · Prisma, Postgres</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>FIYGE Research Inc.</strong> · Software Engineer · Toronto · Dec 2024 – Oct 2025</td>
+  </tr>
+  <tr>
+    <td>Tables vectorized</td>
+    <td><strong>500+</strong></td>
+  </tr>
+  <tr>
+    <td>Retrieval accuracy</td>
+    <td><strong>+60%</strong></td>
+  </tr>
+  <tr>
+    <td>APIs mapped</td>
+    <td><strong>300+</strong></td>
+  </tr>
+  <tr>
+    <td>Form completion</td>
+    <td><strong>−70%</strong></td>
+  </tr>
+  <tr>
+    <td>Latency</td>
+    <td><strong>78s → 22s</strong></td>
+  </tr>
+  <tr>
+    <td>Database load</td>
+    <td><strong>−30%</strong></td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Maruti Techlabs</strong> · Software Engineer L2 · Bengaluru · Aug 2021 – Apr 2023</td>
+  </tr>
+  <tr>
+    <td>Products</td>
+    <td><strong>3</strong> · US$800k+ combined</td>
+  </tr>
+  <tr>
+    <td>Downtime</td>
+    <td><strong>−28%</strong></td>
+  </tr>
+  <tr>
+    <td>Mailbox capabilities</td>
+    <td><strong>25+</strong></td>
   </tr>
 </table>
 
-Also on this account: [SonicAlpha](https://github.com/BravesDevs/SonicAlpha) (Apple Music chart ingestion with FastAPI and Selenium), [HighTunes](https://github.com/BravesDevs/hightunes) (NestJS music API), and [ds-a](https://github.com/BravesDevs/ds-a) (data structures and algorithms in Python).
+## Work
+
+| Project | What it is |
+| --- | --- |
+| [Agentable.io](https://github.com/BravesDevs/Agentable.io) | Visual agent builder. Each flow ships as a REST endpoint. Next.js, Mastra, Postgres. |
+| [Finlysis](https://github.com/BravesDevs/Finlysis) | Finance API. Plaid, CSV import, spending analytics. NestJS, Prisma, MySQL. |
+| [Infralens](https://github.com/BravesDevs/ConHacks2026) | Terraform right-sizing, opened as a pull request. FastAPI, React, Postgres. ConHacks 2026. |
+| [Gujarati dialect detection](https://github.com/BravesDevs/Gujarati-Accent-Detection) | Five dialect labels on Gujarati transcripts. Django, Keras. |
 
 ## Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,py,java,bash,react,nextjs,nodejs&perline=8" alt="TypeScript, JavaScript, Python, Java, shell, React, Next.js, Node.js" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nestjs,spring,flask,fastapi,graphql,prisma,postgres,mysql&perline=8" alt="NestJS, Spring, Flask, FastAPI, GraphQL, Prisma, PostgreSQL, MySQL" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,aws,docker,nginx,githubactions,linux,git,selenium&perline=8" alt="MongoDB, AWS, Docker, NGINX, GitHub Actions, Linux, Git, Selenium" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Mastra-6C47FF?style=for-the-badge" alt="Mastra" />
-  <img src="https://img.shields.io/badge/RAG-0FA47F?style=for-the-badge" alt="RAG" />
-  <img src="https://img.shields.io/badge/Pinecone-121212?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/Langfuse-111111?style=for-the-badge" alt="Langfuse" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic" />
-  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
-</p>
-
-## Activity
-
-Cards are generated from this account and refreshed on a schedule. Followers and stars in the header are live.
-
-<p align="center">
-  <img height="195" src="./profile/stats.svg" alt="GitHub stats for BravesDevs" />
-  <img height="195" src="./profile/top-langs.svg" alt="Most used languages on BravesDevs" />
-</p>
-
-<p align="center">
-  <img height="195" src="https://streak-stats.demolab.com?user=BravesDevs&theme=tokyonight&hide_border=true" alt="GitHub contribution streak for BravesDevs" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=BravesDevs&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph for BravesDevs" />
-</p>
-
-<p align="center">
-  <a href="https://leetcode.com/devangmp">
-    <img src="https://leetcard.jacoblin.cool/devangmp?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats for devangmp" />
-  </a>
-</p>
-
-### Contributions
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./profile/github-contribution-grid-snake.svg" />
-    <img alt="Contribution graph for BravesDevs, drawn as a snake" src="./profile/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
+TypeScript, JavaScript, Python, Java, SQL. React, Next.js, Node.js, NestJS, Spring Boot, FastAPI. PostgreSQL, MySQL, MongoDB, Pinecone. AWS, Docker, NGINX.
 
 ## Education
 
-**Conestoga College** — Graduate Certificate, Web Development · Kitchener, Ontario · Sep 2023 – Dec 2024
+**Conestoga College** — Graduate Certificate, Web Development · Kitchener · Sep 2023 – Dec 2024
 
-**Dharmsinh Desai University** — Bachelor of Engineering, Computer Engineering · Nadiad, India · Aug 2018 – May 2021
+**Dharmsinh Desai University** — B.E., Computer Engineering · Nadiad · Aug 2018 – May 2021
 
-## Connect
+## Contact
 
-<p align="center">
-  <a href="https://gigforge.io/p/devangparekh">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://linkedin.com/in/bravesdevs">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/BravesDevs">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-  <a href="https://leetcode.com/devangmp">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="mailto:devangparekh2014@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
-<p align="center">
-  <strong>Open to roles in agentic systems, retrieval pipelines, and backend platforms.</strong>
-</p>
-
-<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+[Portfolio](https://gigforge.io/p/devangparekh) · [LinkedIn](https://linkedin.com/in/bravesdevs) · [X](https://x.com/BravesDevs) · [LeetCode](https://leetcode.com/devangmp) · [Email](mailto:devangparekh2014@gmail.com)
