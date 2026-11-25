@@ -9,46 +9,110 @@ I build agentic systems and the services under them. Reklaim ran through Novembe
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-<img src="profile/logos/reklaim.png" height="28" align="absmiddle" alt="Reklaim">
-&nbsp;&nbsp;<strong>Reklaim Inc.</strong><br>
-<sub>AI Automation Engineer · Toronto · Jun 2026 – Nov 2026</sub>
-<br><br>
-<sub>User cost</sub><br><strong>−35%</strong> · CA$4,800 → CA$3,100<br><br>
-<sub>UI components</sub><br><strong>62</strong> shared<br><br>
-<sub>Robotic replies removed</sub><br><strong>100%</strong> · Slack MCP
+<img src="profile/logos/slots/reklaim.png" width="220" height="50" alt="Reklaim"><br>
+<strong>Reklaim Inc.</strong><br>
+<sub>AI Automation Engineer</sub><br>
+<sub>Toronto · Jun 2026 – Nov 2026</sub>
+<table width="100%">
+<tr>
+<td width="62%" align="left">User cost</td>
+<td width="38%" align="right"><strong>−35%</strong></td>
+</tr>
+<tr>
+<td align="left">Monthly spend</td>
+<td align="right"><strong>CA$4,800 → CA$3,100</strong></td>
+</tr>
+<tr>
+<td align="left">UI components</td>
+<td align="right"><strong>62</strong></td>
+</tr>
+<tr>
+<td align="left">Robotic replies removed</td>
+<td align="right"><strong>100%</strong></td>
+</tr>
+</table>
 </td>
 <td width="50%" valign="top">
-<img src="profile/logos/playgrnd.png" height="40" align="absmiddle" alt="Playgrnd">
-&nbsp;&nbsp;<strong>Playgrnd</strong><br>
-<sub>Full Stack AI Engineer · Toronto · Nov 2025 – May 2026</sub>
-<br><br>
-<sub>Agents</sub><br><strong>2</strong><br><br>
-<sub>Manual work automated</sub><br><strong>98%</strong><br><br>
-<sub>Counterparty profit</sub><br><strong>+35%</strong><br><br>
-<sub>Services</sub><br><strong>6</strong> · Prisma, Postgres
+<img src="profile/logos/slots/playgrnd.png" width="220" height="50" alt="Playgrnd"><br>
+<strong>Playgrnd</strong><br>
+<sub>Full Stack AI Engineer</sub><br>
+<sub>Toronto · Nov 2025 – May 2026</sub>
+<table width="100%">
+<tr>
+<td width="62%" align="left">Agents</td>
+<td width="38%" align="right"><strong>2</strong></td>
+</tr>
+<tr>
+<td align="left">Manual work automated</td>
+<td align="right"><strong>98%</strong></td>
+</tr>
+<tr>
+<td align="left">Counterparty profit</td>
+<td align="right"><strong>+35%</strong></td>
+</tr>
+<tr>
+<td align="left">Services</td>
+<td align="right"><strong>6</strong></td>
+</tr>
+</table>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<img src="profile/logos/fiyge.png" height="64" align="absmiddle" alt="FIYGE Research Inc.">
-&nbsp;&nbsp;<strong>FIYGE Research Inc.</strong><br>
-<sub>Software Engineer · Toronto · Dec 2024 – Oct 2025</sub>
-<br><br>
-<sub>Tables vectorized</sub><br><strong>500+</strong><br><br>
-<sub>Retrieval accuracy</sub><br><strong>+60%</strong><br><br>
-<sub>APIs mapped</sub><br><strong>300+</strong><br><br>
-<sub>Form completion</sub><br><strong>−70%</strong><br><br>
-<sub>Latency</sub><br><strong>78s → 22s</strong><br><br>
-<sub>Database load</sub><br><strong>−30%</strong>
+<img src="profile/logos/slots/fiyge.png" width="220" height="50" alt="FIYGE Research Inc."><br>
+<strong>FIYGE Research Inc.</strong><br>
+<sub>Software Engineer</sub><br>
+<sub>Toronto · Dec 2024 – Oct 2025</sub>
+<table width="100%">
+<tr>
+<td width="62%" align="left">Tables vectorized</td>
+<td width="38%" align="right"><strong>500+</strong></td>
+</tr>
+<tr>
+<td align="left">Retrieval accuracy</td>
+<td align="right"><strong>+60%</strong></td>
+</tr>
+<tr>
+<td align="left">APIs mapped</td>
+<td align="right"><strong>300+</strong></td>
+</tr>
+<tr>
+<td align="left">Form completion</td>
+<td align="right"><strong>−70%</strong></td>
+</tr>
+<tr>
+<td align="left">Latency</td>
+<td align="right"><strong>78s → 22s</strong></td>
+</tr>
+<tr>
+<td align="left">Database load</td>
+<td align="right"><strong>−30%</strong></td>
+</tr>
+</table>
 </td>
 <td width="50%" valign="top">
-<img src="profile/logos/maruti.png" height="56" align="absmiddle" alt="Maruti Techlabs">
-&nbsp;&nbsp;<strong>Maruti Techlabs</strong><br>
-<sub>Software Engineer L2 · Bengaluru · Aug 2021 – Apr 2023</sub>
-<br><br>
-<sub>Products</sub><br><strong>3</strong> · US$800k+ combined<br><br>
-<sub>Downtime</sub><br><strong>−28%</strong><br><br>
-<sub>Mailbox capabilities</sub><br><strong>25+</strong>
+<img src="profile/logos/slots/maruti.png" width="220" height="50" alt="Maruti Techlabs"><br>
+<strong>Maruti Techlabs</strong><br>
+<sub>Software Engineer L2</sub><br>
+<sub>Bengaluru · Aug 2021 – Apr 2023</sub>
+<table width="100%">
+<tr>
+<td width="62%" align="left">Products</td>
+<td width="38%" align="right"><strong>3</strong></td>
+</tr>
+<tr>
+<td align="left">Combined value</td>
+<td align="right"><strong>US$800k+</strong></td>
+</tr>
+<tr>
+<td align="left">Downtime</td>
+<td align="right"><strong>−28%</strong></td>
+</tr>
+<tr>
+<td align="left">Mailbox capabilities</td>
+<td align="right"><strong>25+</strong></td>
+</tr>
+</table>
 </td>
 </tr>
 </table>
