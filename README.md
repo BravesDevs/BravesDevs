@@ -44,43 +44,48 @@ const devang = {
 
 ## Experience
 
-### Reklaim Inc. · AI Automation Engineer
-Toronto, Ontario · Jun 2026 – Nov 2026
-
-**−35%** monthly user cost (CA$4,800 → CA$3,100) · **62** shared UI components · human tone in agent replies
-
-- Built custom skills and connected a Slack MCP so communications pull real human tone and context, eliminating 100% of robotic AI-sounding responses in that flow.
-- Integrated Langfuse for telemetry and applied PStack and loop engineering, cutting monthly user cost by 35%, from CA$4,800 to CA$3,100.
-- Implemented a Semantic UI package that gives agents reusable components, standardizing the interface across 62 components.
-
-### Playgrnd · Full Stack AI Engineer
-Toronto, Ontario · Nov 2025 – May 2026
-
-**2** production agents · **98%** of the manual workflow automated · **+35%** counterparty profit · schema across **6** services
-
-- Led an agentic workflow in Mastra, TypeScript, and Next.js. Two custom agents automated 98% of the manual tasks and increased counterparty profit by 35%.
-- Designed the backend schema in Prisma and PostgreSQL across 6 services, and used prompt engineering and model tuning to improve classification and how results were stored.
-
-### FIYGE Research Inc. · Software Engineer
-Toronto, Ontario · Dec 2024 – Oct 2025
-
-**500+** tables vectorized · **+60%** retrieval accuracy · **300+** APIs mapped · form time **−70%** · latency **78s → 22s** · database load **−30%**
-
-- Built QueryGen with Pinecone, Hugging Face, and FastAPI. Vectorized 500+ tables and improved retrieval accuracy by 60%.
-- Migrated a Chrome extension from V1 to V2, mapping 300+ APIs to automate webform workflows and cut completion time by 70%.
-- Configured NGINX and cache bursting for the FIYGE service, bringing latency from 78s down to 22s.
-- Integrated Spring Data JPA with MySQL and tuned high-traffic queries with connection pooling and batch writes, reducing database load by 30%.
-- Built a Plaid banking service in Spring Boot, with scheduled sync via CRON.
-
-### Maruti Techlabs · Software Engineer L2
-Bengaluru, India · Aug 2021 – Apr 2023
-
-**3** products, valued together at **US$800,000+** · downtime **−28%** · **25+** mailbox capabilities
-
-- Engineered solutions for 3 products across hybrid chatbots, B2B, and healthcare, collectively valued at over US$800,000.
-- Led the move to serverless ingest pipelines, which improved reliability and reduced downtime by 28%.
-- Built a mailbox microservice with 25+ email capabilities for Google and Microsoft accounts, using the Nylas SDK.
-- Set up CI/CD in GitHub Actions for container builds and deploys on AWS EC2, with credentials in AWS Secrets Manager.
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>Reklaim Inc.</h3>
+AI Automation Engineer<br>
+Toronto · Jun 2026 – Nov 2026
+<br><br>
+<b>−35%</b> user cost · CA$4,800 → CA$3,100<br>
+<b>62</b> shared UI components<br>
+Slack MCP · human-tone replies
+</td>
+<td width="50%" valign="top">
+<h3>Playgrnd</h3>
+Full Stack AI Engineer<br>
+Toronto · Nov 2025 – May 2026
+<br><br>
+<b>2</b> agents · <b>98%</b> of manual work automated<br>
+<b>+35%</b> counterparty profit<br>
+<b>6</b> services · Prisma + Postgres
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>FIYGE Research Inc.</h3>
+Software Engineer<br>
+Toronto · Dec 2024 – Oct 2025
+<br><br>
+<b>500+</b> tables · <b>+60%</b> retrieval<br>
+<b>300+</b> APIs · forms <b>−70%</b><br>
+<b>78s → 22s</b> · DB load <b>−30%</b>
+</td>
+<td width="50%" valign="top">
+<h3>Maruti Techlabs</h3>
+Software Engineer L2<br>
+Bengaluru · Aug 2021 – Apr 2023
+<br><br>
+<b>3</b> products · <b>US$800k+</b><br>
+Downtime <b>−28%</b><br>
+<b>25+</b> mailbox capabilities
+</td>
+</tr>
+</table>
 
 ## Selected work
 
