@@ -8,77 +8,105 @@ I build agentic systems and the services under them. Reklaim ran through Novembe
 
 <table width="100%">
 <tr>
-<td>
-<img src="profile/logos/reklaim.png" height="32" align="left" alt="Reklaim">
-<strong>Reklaim Inc.</strong><br>
-AI Automation Engineer · Toronto · Jun 2026 – Nov 2026
-<br clear="left">
-<br>
-<strong>−35%</strong> user cost, CA$4,800 → CA$3,100
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<strong>62</strong> UI components
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<strong>100%</strong> robotic replies removed
+<td colspan="2">
+<img src="profile/logos/reklaim.png" height="28" align="absmiddle" alt="Reklaim">
+&nbsp;&nbsp;<strong>Reklaim Inc.</strong><br>
+<sub>AI Automation Engineer · Toronto · Jun 2026 – Nov 2026</sub>
 </td>
+</tr>
+<tr>
+<td width="42%"><sub>User cost</sub></td>
+<td><strong>−35%</strong> · CA$4,800 → CA$3,100</td>
+</tr>
+<tr>
+<td><sub>UI components</sub></td>
+<td><strong>62</strong> shared</td>
+</tr>
+<tr>
+<td><sub>Robotic replies removed</sub></td>
+<td><strong>100%</strong> · Slack MCP</td>
 </tr>
 </table>
 
 <table width="100%">
 <tr>
-<td>
-<img src="profile/logos/playgrnd.png" height="52" align="left" alt="Playgrnd">
-<strong>Playgrnd</strong><br>
-Full Stack AI Engineer · Toronto · Nov 2025 – May 2026
-<br clear="left">
-<br>
-<strong>2</strong> agents
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<strong>98%</strong> of manual work automated
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<strong>+35%</strong> counterparty profit
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<strong>6</strong> services
+<td colspan="2">
+<img src="profile/logos/playgrnd.png" height="40" align="absmiddle" alt="Playgrnd">
+&nbsp;&nbsp;<strong>Playgrnd</strong><br>
+<sub>Full Stack AI Engineer · Toronto · Nov 2025 – May 2026</sub>
 </td>
+</tr>
+<tr>
+<td width="42%"><sub>Agents</sub></td>
+<td><strong>2</strong></td>
+</tr>
+<tr>
+<td><sub>Manual work automated</sub></td>
+<td><strong>98%</strong></td>
+</tr>
+<tr>
+<td><sub>Counterparty profit</sub></td>
+<td><strong>+35%</strong></td>
+</tr>
+<tr>
+<td><sub>Services</sub></td>
+<td><strong>6</strong> · Prisma, Postgres</td>
 </tr>
 </table>
 
 <table width="100%">
 <tr>
-<td>
-<img src="profile/logos/fiyge.png" height="78" align="left" alt="FIYGE Research Inc.">
-<strong>FIYGE Research Inc.</strong><br>
-Software Engineer · Toronto · Dec 2024 – Oct 2025
-<br clear="left">
-<br>
-<strong>500+</strong> tables
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<strong>+60%</strong> retrieval
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<strong>300+</strong> APIs
-<br>
-<strong>−70%</strong> form time
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<strong>78s → 22s</strong> latency
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<strong>−30%</strong> database load
+<td colspan="2">
+<img src="profile/logos/fiyge.png" height="64" align="absmiddle" alt="FIYGE Research Inc.">
+&nbsp;&nbsp;<strong>FIYGE Research Inc.</strong><br>
+<sub>Software Engineer · Toronto · Dec 2024 – Oct 2025</sub>
 </td>
+</tr>
+<tr>
+<td width="42%"><sub>Tables vectorized</sub></td>
+<td><strong>500+</strong></td>
+</tr>
+<tr>
+<td><sub>Retrieval accuracy</sub></td>
+<td><strong>+60%</strong></td>
+</tr>
+<tr>
+<td><sub>APIs mapped</sub></td>
+<td><strong>300+</strong></td>
+</tr>
+<tr>
+<td><sub>Form completion</sub></td>
+<td><strong>−70%</strong></td>
+</tr>
+<tr>
+<td><sub>Latency</sub></td>
+<td><strong>78s → 22s</strong></td>
+</tr>
+<tr>
+<td><sub>Database load</sub></td>
+<td><strong>−30%</strong></td>
 </tr>
 </table>
 
 <table width="100%">
 <tr>
-<td>
-<img src="profile/logos/maruti.png" height="68" align="left" alt="Maruti Techlabs">
-<strong>Maruti Techlabs</strong><br>
-Software Engineer L2 · Bengaluru · Aug 2021 – Apr 2023
-<br clear="left">
-<br>
-<strong>3</strong> products, US$800k+
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<strong>−28%</strong> downtime
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<strong>25+</strong> mailbox capabilities
+<td colspan="2">
+<img src="profile/logos/maruti.png" height="56" align="absmiddle" alt="Maruti Techlabs">
+&nbsp;&nbsp;<strong>Maruti Techlabs</strong><br>
+<sub>Software Engineer L2 · Bengaluru · Aug 2021 – Apr 2023</sub>
 </td>
+</tr>
+<tr>
+<td width="42%"><sub>Products</sub></td>
+<td><strong>3</strong> · US$800k+ combined</td>
+</tr>
+<tr>
+<td><sub>Downtime</sub></td>
+<td><strong>−28%</strong></td>
+</tr>
+<tr>
+<td><sub>Mailbox capabilities</sub></td>
+<td><strong>25+</strong></td>
 </tr>
 </table>
 
