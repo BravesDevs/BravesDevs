@@ -6,26 +6,81 @@ I build agentic systems and the services under them. Reklaim ran through Novembe
 
 ## Experience
 
-### Reklaim Inc.
+<table width="100%">
+<tr>
+<td>
+<img src="profile/logos/reklaim.png" height="32" align="left" alt="Reklaim">
+<strong>Reklaim Inc.</strong><br>
 AI Automation Engineer · Toronto · Jun 2026 – Nov 2026
+<br clear="left">
+<br>
+<strong>−35%</strong> user cost, CA$4,800 → CA$3,100
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<strong>62</strong> UI components
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<strong>100%</strong> robotic replies removed
+</td>
+</tr>
+</table>
 
-**−35%** user cost, CA$4,800 → CA$3,100 &nbsp;&nbsp;·&nbsp;&nbsp; **62** UI components &nbsp;&nbsp;·&nbsp;&nbsp; **100%** robotic replies removed
-
-### Playgrnd
+<table width="100%">
+<tr>
+<td>
+<img src="profile/logos/playgrnd.png" height="52" align="left" alt="Playgrnd">
+<strong>Playgrnd</strong><br>
 Full Stack AI Engineer · Toronto · Nov 2025 – May 2026
+<br clear="left">
+<br>
+<strong>2</strong> agents
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<strong>98%</strong> of manual work automated
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<strong>+35%</strong> counterparty profit
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<strong>6</strong> services
+</td>
+</tr>
+</table>
 
-**2** agents &nbsp;&nbsp;·&nbsp;&nbsp; **98%** of manual work automated &nbsp;&nbsp;·&nbsp;&nbsp; **+35%** counterparty profit &nbsp;&nbsp;·&nbsp;&nbsp; **6** services
-
-### FIYGE Research Inc.
+<table width="100%">
+<tr>
+<td>
+<img src="profile/logos/fiyge.png" height="78" align="left" alt="FIYGE Research Inc.">
+<strong>FIYGE Research Inc.</strong><br>
 Software Engineer · Toronto · Dec 2024 – Oct 2025
+<br clear="left">
+<br>
+<strong>500+</strong> tables
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<strong>+60%</strong> retrieval
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<strong>300+</strong> APIs
+<br>
+<strong>−70%</strong> form time
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<strong>78s → 22s</strong> latency
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<strong>−30%</strong> database load
+</td>
+</tr>
+</table>
 
-**500+** tables &nbsp;&nbsp;·&nbsp;&nbsp; **+60%** retrieval &nbsp;&nbsp;·&nbsp;&nbsp; **300+** APIs  
-**−70%** form time &nbsp;&nbsp;·&nbsp;&nbsp; **78s → 22s** latency &nbsp;&nbsp;·&nbsp;&nbsp; **−30%** database load
-
-### Maruti Techlabs
+<table width="100%">
+<tr>
+<td>
+<img src="profile/logos/maruti.png" height="68" align="left" alt="Maruti Techlabs">
+<strong>Maruti Techlabs</strong><br>
 Software Engineer L2 · Bengaluru · Aug 2021 – Apr 2023
-
-**3** products, US$800k+ &nbsp;&nbsp;·&nbsp;&nbsp; **−28%** downtime &nbsp;&nbsp;·&nbsp;&nbsp; **25+** mailbox capabilities
+<br clear="left">
+<br>
+<strong>3</strong> products, US$800k+
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<strong>−28%</strong> downtime
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<strong>25+</strong> mailbox capabilities
+</td>
+</tr>
+</table>
 
 ## Work
 
