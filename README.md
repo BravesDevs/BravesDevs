@@ -6,24 +6,11 @@ I build agentic systems and the services under them. Reklaim ran through Novembe
 
 ## Experience
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-<img src="profile/cards/reklaim.png" width="100%" alt="Reklaim Inc., AI Automation Engineer, Toronto, Jun 2026 to Nov 2026. User cost down 35 percent from CA$4,800 to CA$3,100. 62 UI components. 100 percent of robotic replies removed.">
-</td>
-<td width="50%" valign="top">
-<img src="profile/cards/playgrnd.png" width="100%" alt="Playgrnd, Full Stack AI Engineer, Toronto, Nov 2025 to May 2026. 2 agents. 98 percent of manual work automated. Counterparty profit up 35 percent.">
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<img src="profile/cards/fiyge.png" width="100%" alt="FIYGE Research, Software Engineer, Toronto, Dec 2024 to Oct 2025. 500 plus tables. Retrieval accuracy up 60 percent. Form time down 70 percent. Latency 78 seconds to 22 seconds.">
-</td>
-<td width="50%" valign="top">
-<img src="profile/cards/maruti.png" width="100%" alt="Maruti Techlabs, Software Engineer L2, Bengaluru, Aug 2021 to Apr 2023. 3 products worth US$800,000 plus. Downtime down 28 percent. 25 plus mailbox capabilities.">
-</td>
-</tr>
-</table>
+<img src="profile/cards/reklaim.png" width="49%" alt="Reklaim Inc. AI Automation Engineer, Toronto, Jun 2026 to Nov 2026. Human-tone Slack replies, a shared agent UI, and lower monthly model cost.">
+<img src="profile/cards/playgrnd.png" width="49%" alt="Playgrnd. Full Stack AI Engineer, Toronto, Nov 2025 to May 2026. Two production agents, most of the manual workflow automated, higher counterparty profit.">
+<br>
+<img src="profile/cards/fiyge.png" width="49%" alt="FIYGE Research. Software Engineer, Toronto, Dec 2024 to Oct 2025. Vector search, faster webforms, and lower service latency.">
+<img src="profile/cards/maruti.png" width="49%" alt="Maruti Techlabs. Software Engineer L2, Bengaluru, Aug 2021 to Apr 2023. Chat, B2B, and healthcare products, less ingest downtime, mailbox for Google and Microsoft.">
 
 ## Work
 
