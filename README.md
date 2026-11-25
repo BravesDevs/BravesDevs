@@ -10,10 +10,9 @@ I build agentic systems and the services under them. Reklaim ran through Novembe
 
 ## Work
 
-- **[Agentable.io](https://github.com/BravesDevs/Agentable.io)** — Visual agent builder. Each flow ships as a REST endpoint. Next.js, Mastra, Postgres.
-- **[Finlysis](https://github.com/BravesDevs/Finlysis)** — Finance API. Plaid, CSV import, spending analytics. NestJS, Prisma, MySQL.
-- **[Infralens](https://github.com/BravesDevs/ConHacks2026)** — Terraform right-sizing, opened as a pull request. FastAPI, React, Postgres. ConHacks 2026.
-- **[Gujarati dialect detection](https://github.com/BravesDevs/Gujarati-Accent-Detection)** — Five dialect labels on Gujarati transcripts. Django, Keras.
+<img src="profile/cards/work.png" width="100%" alt="Four project cards in a 2 by 2 grid. Top left Agentable.io, a visual agent builder. Top right Finlysis, a personal finance API. Bottom left Infralens, Terraform right-sizing from ConHacks 2026. Bottom right Gujarati dialects, a five-way classifier.">
+
+[Agentable.io](https://github.com/BravesDevs/Agentable.io) · [Finlysis](https://github.com/BravesDevs/Finlysis) · [Infralens](https://github.com/BravesDevs/ConHacks2026) · [Gujarati dialects](https://github.com/BravesDevs/Gujarati-Accent-Detection)
 
 ## Stack
 
