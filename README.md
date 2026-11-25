@@ -6,11 +6,7 @@ I build agentic systems and the services under them. Reklaim ran through Novembe
 
 ## Experience
 
-<img src="profile/cards/reklaim.png" width="49%" alt="Reklaim Inc. AI Automation Engineer, Toronto, Jun 2026 to Nov 2026. Human-tone Slack replies, a shared agent UI, and lower monthly model cost.">
-<img src="profile/cards/playgrnd.png" width="49%" alt="Playgrnd. Full Stack AI Engineer, Toronto, Nov 2025 to May 2026. Two production agents, most of the manual workflow automated, higher counterparty profit.">
-<br>
-<img src="profile/cards/fiyge.png" width="49%" alt="FIYGE Research. Software Engineer, Toronto, Dec 2024 to Oct 2025. Vector search, faster webforms, and lower service latency.">
-<img src="profile/cards/maruti.png" width="49%" alt="Maruti Techlabs. Software Engineer L2, Bengaluru, Aug 2021 to Apr 2023. Chat, B2B, and healthcare products, less ingest downtime, mailbox for Google and Microsoft.">
+<img src="profile/cards/experience.png" width="100%" alt="Four experience cards in a 2 by 2 grid. Top left Reklaim, AI Automation Engineer, Toronto, Jun 2026 to Nov 2026. Top right Playgrnd, Full Stack AI Engineer, Toronto, Nov 2025 to May 2026. Bottom left FIYGE Research, Software Engineer, Toronto, Dec 2024 to Oct 2025. Bottom right Maruti Techlabs, Software Engineer L2, Bengaluru, Aug 2021 to Apr 2023.">
 
 ## Work
 
